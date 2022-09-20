@@ -1,2 +1,2 @@
-# django_flask_microservice
+# Django Flask Microservice
 Microservices Example with Django and Flask
